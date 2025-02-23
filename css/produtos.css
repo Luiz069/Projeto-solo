@@ -1,0 +1,51 @@
+.produtos {
+  background-color: var(--cor-secundaria);
+  border-radius: 10px;
+  font-family: "Inter", serif;
+}
+
+.imagem__lanche {
+  width: 85.773px;
+  height: 85.773px;
+  /* margin: -115px -1px; */
+  padding: 0 0 15px 0;
+}
+
+.titulo {
+  font-size: 24px;
+  padding: 5px 0 1px 10px;
+}
+
+.descrição {
+  line-height: 18px;
+  margin: 10px 2% -2%;
+}
+
+.descrição__lanche {
+  font-size: 10px;
+  margin: -10px 0;
+  font-size: 10px;
+}
+
+.Tipos__de___lanche {
+  display: flex;
+  align-items: center;
+  margin: -25px;
+  padding: 1em 1em 0 0;
+}
+
+.nome__lanche {
+  font-size: 20px;
+  margin-top: 10px;
+}
+
+.preço {
+  font-size: 14px;
+  margin-top: 30px;
+}
+
+.adicionar__no__carrinho {
+  margin: -100% 85% 12%;
+  height: 30px;
+  width: 30px;
+}

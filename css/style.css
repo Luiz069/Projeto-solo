@@ -1,0 +1,16 @@
+@import url("/css/header.css");
+@import url("/css/banner.css");
+@import url("/css/produtos.css");
+
+:root {
+  --laranja: #e47911;
+  --cor-secundaria: #f0f0f0;
+}
+
+body {
+  background-color: #ccc7c7;
+}
+
+* {
+  font-family: "Inter", serif;
+}
