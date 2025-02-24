@@ -1,27 +1,20 @@
 .cabeçalho {
   background-color: var(--laranja);
+}
+
+.cabeçalho__conteudo {
   display: flex;
+  align-items: center;
+  padding: 10px;
   justify-content: space-between;
-  align-items: center;
-  padding: 7px;
-}
-
-.logo-container {
-  display: flex;
-  align-items: center;
-}
-
-.logo {
-  height: 50px;
-  margin-right: 10px;
 }
 
 .icons {
-  display: flex;
-  gap: 15px;
 }
 
 .icon {
-  height: 30px;
-  cursor: pointer;
+  height: 35px;
+  width: 35px;
+  margin-left: 12px;
+  text-decoration: none;
 }
